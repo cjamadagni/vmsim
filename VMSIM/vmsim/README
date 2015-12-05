@@ -1,0 +1,46 @@
+
+Vmsim is a vritual memory simulator. It is a modified (simplified) 
+version of the Vmtrace, from Univ of Washington.  The 
+modifications were done by Mohamed Hefeeda of Simon Fraser 
+University, Surrey, Canada for CMPT 300 course. 
+
+
+How to compile and run 
+
+	
+1. untar:
+	tar -xvf vmsim.tar
+
+2. Compile:	
+	cd vmsim
+	make 
+	
+3. Run: 
+	./vmsim -h 
+
+   will display help on how to use the simulator
+
+
+------------ the original README of vmtrace is below. 
+
+AUTHOR of VMtrace: Rick Cox <rick@cs.washington.edu>
+
+Vmtrace Virtual Memory Trace Simulator
+
+This is a package for evaluating page replacement algorithms against
+program traces.
+
+It was developed at the University of Washington for CSE451, and is
+available under the GNU GPL. See the file COPYING for more
+information.
+
+For instructors:
+
+Use 'make student-dist' to produce a tar.gz without the solutions.
+
+TODO:
+
+- x86 references may cross page boundaries. They may also be larger than
+  the bus size, and should thus count as multiple memory accesses. We
+  currently consider every reference, regardless of size or allignment
+  to be a single reference to the page on which it starts.

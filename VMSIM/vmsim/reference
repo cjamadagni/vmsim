@@ -1,0 +1,19 @@
+pagetable.c:  pte->vfn = vfn;
+pagetable.c:  pte->pfn = -1;
+pagetable.c:  pte->valid = FALSE;
+pagetable.c:  pte->modified = FALSE;
+pagetable.c:  pte->reference = 0;
+pagetable.c:  assert(pte && pte->vfn == vfn);
+pagetable.c:			  pte->valid,
+pagetable.c:			  pte->vfn,
+pagetable.c:			  pte->pfn,
+pagetable.c:			  pte->modified,
+pagetable.c:			  pte->reference,
+pagetable.c:			  pte->counter);
+Binary file pagetable.o matches
+Binary file vmsim matches
+vmsim.c:      pgfault=!pte->valid;
+vmsim.c:    if (!pte->valid) { /* Fault */
+vmsim.c:    pte->reference = 1;
+vmsim.c:    pte->counter = ref_counter++; //used by LRU
+vmsim.c:      pte->modified = TRUE;

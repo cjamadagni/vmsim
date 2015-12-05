@@ -1,0 +1,453 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.23)  17 APR 2015 02:08
+entering extended mode
+**project2.tex
+("C:\Users\Chirag Jamadagni\Desktop\Proj2 Latex\project2.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\Chirag Jamadagni\Desktop\Proj2 Latex\project2.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("C:\Users\Chirag Jamadagni\Desktop\Proj2 Latex\project2.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1.
+)
+\tf@toc=\write3
+ [1
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 26.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+ [2] [3] [4]
+Overfull \hbox (28.7526pt too wide) in paragraph at lines 76--88
+\OT1/cmr/m/n/12 $ wget http://www.cs.sfu.ca/CourseCentral/300/zonghuag/projects
+/vmsim.tar.gz 
+ []
+
+
+Overfull \hbox (5.18756pt too wide) in paragraph at lines 76--88
+\OT1/cmr/m/n/12 $ ./vm-sim -h (will tell you how to run the sim-u-la-tor and th
+e ar-gu-ments/options
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 \underline
+                {\textbf{Modes of Execution}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--120
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 \underline
+                {\textbf{Simulation procedure}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--136
+
+ []
+
+[6] [7]
+Overfull \hbox (13.69357pt too wide) in paragraph at lines 148--148
+[]\OT1/cmr/bx/n/17.28 IMPLEMENTED PAGE RE-PLACE-MENT AL-
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
+
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
+
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--177
+
+ []
+
+[8]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [9]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ <images/fifo.png, id=37, 688.07062pt x 179.16937pt>
+File: images/fifo.png Graphic file (type png)
+
+<use images/fifo.png>
+Package pdftex.def Info: images/fifo.png used on input line 200.
+(pdftex.def)             Requested size: 412.84555pt x 107.50244pt.
+
+Overfull \hbox (22.84555pt too wide) in paragraph at lines 193--201
+[] 
+ []
+
+[10 <C:/Users/Chirag Jamadagni/Desktop/Proj2 Latex/images/fifo.png>]
+<images/lru.png, id=43, 679.78969pt x 187.45032pt>
+File: images/lru.png Graphic file (type png)
+ <use images/lru.png>
+Package pdftex.def Info: images/lru.png used on input line 220.
+(pdftex.def)             Requested size: 407.87695pt x 112.47104pt.
+
+Overfull \hbox (17.87695pt too wide) in paragraph at lines 205--221
+[] 
+ []
+
+[11] [12 <C:/Users/Chirag Jamadagni/Desktop/Proj2 Latex/images/lru.png>]
+<images/lfu.png, id=51, 676.02562pt x 226.59656pt>
+File: images/lfu.png Graphic file (type png)
+ <use images/lfu.png>
+Package pdftex.def Info: images/lfu.png used on input line 228.
+(pdftex.def)             Requested size: 405.6185pt x 135.95897pt.
+
+Overfull \hbox (15.6185pt too wide) in paragraph at lines 225--229
+[] 
+ []
+
+[13 <C:/Users/Chirag Jamadagni/Desktop/Proj2 Latex/images/lfu.png>]
+<images/mfu.png, id=55, 684.30656pt x 206.27063pt>
+File: images/mfu.png Graphic file (type png)
+ <use images/mfu.png>
+Package pdftex.def Info: images/mfu.png used on input line 236.
+(pdftex.def)             Requested size: 410.5871pt x 123.76332pt.
+
+Overfull \hbox (20.5871pt too wide) in paragraph at lines 233--237
+[] 
+ []
+
+[14 <C:/Users/Chirag Jamadagni/Desktop/Proj2 Latex/images/mfu.png>]
+<images/clock.png, id=59, 755.07094pt x 313.9228pt>
+File: images/clock.png Graphic file (type png)
+ <use images/clock.png>
+Package pdftex.def Info: images/clock.png used on input line 260.
+(pdftex.def)             Requested size: 453.04605pt x 188.35512pt.
+
+Overfull \hbox (63.04605pt too wide) in paragraph at lines 241--261
+[] 
+ []
+
+[15] [16 <C:/Users/Chirag Jamadagni/Desktop/Proj2 Latex/images/clock.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+
+<images/second_chance.png, id=66, 685.05937pt x 179.92218pt>
+File: images/second_chance.png Graphic file (type png)
+
+<use images/second_chance.png>
+Package pdftex.def Info: images/second_chance.png used on input line 271.
+(pdftex.def)             Requested size: 411.03879pt x 107.95413pt.
+
+Overfull \hbox (21.03879pt too wide) in paragraph at lines 265--272
+[] 
+ []
+
+[17 <C:/Users/Chirag Jamadagni/Desktop/Proj2 Latex/images/second_chance.png>]
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 282--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--288
+
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--290
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--294
+
+ []
+
+[19] <images/compare.png, id=77, 339.51843pt x 171.64125pt>
+File: images/compare.png Graphic file (type png)
+
+<use images/compare.png>
+Package pdftex.def Info: images/compare.png used on input line 311.
+(pdftex.def)             Requested size: 407.42007pt x 205.96844pt.
+
+Overfull \hbox (17.42007pt too wide) in paragraph at lines 302--315
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--323
+
+ []
+
+[20 <C:/Users/Chirag Jamadagni/Desktop/Proj2 Latex/images/compare.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 323--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--327
+
+ []
+
+[21]
+Overfull \hbox (47.29129pt too wide) in paragraph at lines 336--337
+[]\OT1/cmr/m/n/12 http://www.cs.sfu.ca/CourseCentral/300/zonghuag/projects/2011
+fallproject3.pdf 
+ []
+
+
+Overfull \hbox (63.7328pt too wide) in paragraph at lines 348--349
+[]\OT1/cmr/m/n/12 http://www.cs.utexas.edu/users/witchel/372/lectures/16.PageRe
+placementAlgos.pdf 
+ []
+
+[22
+
+] ("C:\Users\Chirag Jamadagni\Desktop\Proj2 Latex\project2.aux") ) 
+Here is how much of TeX's memory you used:
+ 1216 strings out of 493921
+ 16440 string characters out of 3144843
+ 69423 words of memory out of 3000000
+ 4538 multiletter control sequences out of 15000+200000
+ 9414 words of font info for 33 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,6n,20p,868b,184s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on project2.pdf (23 pages, 145810 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

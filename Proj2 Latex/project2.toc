@@ -1,0 +1,22 @@
+\contentsline {section}{INTRODUCTION}{2}
+\contentsline {subsection}{VIRTUAL MEMORY}{2}
+\contentsline {section}{PAGING AND PAGE REPLACEMENT}{3}
+\contentsline {subsection}{PAGING}{3}
+\contentsline {subsection}{PAGE REPLACEMENT}{3}
+\contentsline {section}{VMSIM}{5}
+\contentsline {subsection}{AIM OF THE PROJECT}{5}
+\contentsline {subsection}{INSTALLATION}{5}
+\contentsline {subsection}{IMPLEMENTATION}{5}
+\contentsline {section}{IMPLEMENTED PAGE REPLACEMENT ALGORITHMS}{8}
+\contentsline {subsection}{EXECUTION PROCEDURE}{8}
+\contentsline {subsection}{First In First Out}{10}
+\contentsline {subsection}{Least Recently Used}{11}
+\contentsline {subsection}{Least Frequently Used}{13}
+\contentsline {subsection}{Most Frequently Used}{14}
+\contentsline {subsection}{Clock}{15}
+\contentsline {subsection}{Second Chance}{17}
+\contentsline {subsection}{Random}{18}
+\contentsline {section}{LEARNING OUTCOMES}{19}
+\contentsline {section}{CONCLUSION}{20}
+\contentsline {subsection}{ALGORITHM COMPARISON}{20}
+\contentsline {subsection}{CHALLENGES FACED}{20}
